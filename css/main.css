@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.fondo {
+  background-color: #e2e5e8;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 10px;
+
+}
+
+.container{
+  margin-top: 5%;
+}
+
+.bg-primary {
+  background-color: #279d85 !important;
+}
+
+.bg-secondary {
+  background-color: #091f3c !important;
+}
+
+
+.card {
+  border-radius: 10px;
+}
+
+
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.btn-logreg {
+  background-color: #38d39f;
+  height: 55px;
+}
+.btn-logreg:hover{
+  cursor: pointer;
+  background: #24a178;
+}
+.form-control:focus{
+  box-shadow: none;
+}
+#myImage{
+  max-width: 120px;
+}
+#myImage1{
+  max-width: 120px;
+}
